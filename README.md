@@ -7,6 +7,9 @@ namespace Harikrishna
      static void Main(string[] args)
      {
        Console.WriteLine("Helo World");
+       string name = "Harikrishna";
+       string initial = "Bhutam";
+       console.writeline("name + initial);
      }
    }
 }
